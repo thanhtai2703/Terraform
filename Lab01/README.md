@@ -4,6 +4,7 @@
 ---
 
 ## Usage
+# CloudFormation
 
 ### 1. Configure Environment Variables
 
@@ -50,3 +51,5 @@ To delete the deployed resources and free up AWS costs, run:
 - Always review your CloudFormation template before applying to production.
 
 ---
+
+# Terraform
